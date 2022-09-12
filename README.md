@@ -6,7 +6,7 @@
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
-```
+
 
 ## Acceptance Criteria
 
@@ -26,25 +26,29 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
-```
+
 ## Application Summary
+
 ---
 Use this random password generator to create a secure password using criteria that you specify.
 First, click the Generate Password button to open a pop-up window with a series of questions that allows you to define your password criteria. 
 Then answer the series of questions to determine password length between 8 and 128 characters, and types of characters used: numbers, uppercase, lowercase, and special characters. 
 Once you complete the questions, a random password is automatically generated using your selected criteria. 
----
+
 
 ## Mock-Up
+
 ---
 ![password-generator](https://github.com/sammyc33/password-generator/blob/main/assets/images/pwgen.png)
----
+
 
 ## Deployed Page
+
 ---
 https://sammyc33.github.io/password-generator/
----
+
 
 ## License
+
 ---
 Please see license information in repo. 
